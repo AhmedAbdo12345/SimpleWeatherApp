@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="Pressure">Pressure</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Wind">Wind</string>
+    <string name="Cloud">Cloud</string>
+    <string name="Ultra_Violet">Ultra Violet</string>
+    <string name="Visibility">Visibility</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Sun_Rise">Sun Rise</string>
+    <string name="Sun_Set">Sun Set</string>
+
+    <string name="Change_Language">Change Language</string>
+    <string name="Arabic">Arabic</string>
+    <string name="English">English</string>
+    <string name="Location">Location</string>
+    <string name="Map">Map</string>
+    <string name="GPS">GPS</string>
+    <string name="Notifications">Notifications</string>
+
+    <string name="Home">Home</string>
+    <string name="Favourite">Favourite</string>
+    <string name="Setting">Setting</string>
+    <string name="Alarm">Alarm</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Save">Save</string>
+    <string name="Cancle">Cancle</string>
+    <string name="Not_Found_Internet_Connection">Not Found Internet Connection</string>
+    <string name="try_again">try again</string>
+
+    <string name="Alert">Alert</string>
+
+
+    <string name="Delete_Fav_Location">Delete Location From Favourite</string>
+    <string name="Dialog_Delete_Fav_Message">Do you want to Delete this Location from Favourite ?</string>
+    <string name="Delete">Delete</string>
+    <string name="Save_In_Favourite">Save in Favourite</string>
+    <string name="Dialog_Save_Fav_Message">Do you want to save this Location in Favourite</string>
+    <string name="Save_Successfull">This location Saved Successful</string>
+    <string name="Save_Location">Save this Location</string>
+    <string name="Dialog_Save_Map_Message">Do you want to save this Location </string>
+    <string name="Delete_Alert">Delete Alert</string>
+    <string name="Dialog_Delete_Alert_Message">Do you want to Delete this Alert ?</string>
+
+    <string name="Permission_Required">Permission Required</string>
+    <string name="Warning">Warning</string>
+    <string name="Ok">Ok</string>
+</resources>
