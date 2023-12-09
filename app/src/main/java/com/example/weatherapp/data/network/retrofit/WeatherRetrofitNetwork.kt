@@ -1,6 +1,6 @@
 package com.example.weatherapp.data.network.retrofit
 
-import com.example.weatherapp.Params.API_KEY
+import com.example.weatherapp.utils.Params.API_KEY
 import com.example.weatherapp.data.network.WeatherNetworkDataSource
 import com.example.weatherapp.data.network.model.ForecastResponse
 import retrofit2.Retrofit

@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.example.weatherapp.Params.NETWORK_ERROR_MESSAGE
+import com.example.weatherapp.utils.Params.NETWORK_ERROR_MESSAGE
 import com.example.weatherapp.WeatherApplication
 import com.example.weatherapp.data.network.model.ForecastResponse
 import com.example.weatherapp.domain.repository.WeatherRepository

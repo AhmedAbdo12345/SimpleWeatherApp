@@ -10,12 +10,11 @@ import androidx.core.view.isVisible
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.NavHostFragment
-import com.example.weatherapp.Params.CELSIUS
-import com.example.weatherapp.Params.FAHRENHEIT
-import com.example.weatherapp.Params.KELVIN
-import com.example.weatherapp.Params.LANGUAGE
-import com.example.weatherapp.Params.LOCATION
-import com.example.weatherapp.Params.TEMPERATURE
+import com.example.weatherapp.utils.Params.CELSIUS
+import com.example.weatherapp.utils.Params.FAHRENHEIT
+import com.example.weatherapp.utils.Params.KELVIN
+import com.example.weatherapp.utils.Params.LANGUAGE
+import com.example.weatherapp.utils.Params.TEMPERATURE
 import com.example.weatherapp.R
 import com.example.weatherapp.databinding.FragmentSettingBinding
 

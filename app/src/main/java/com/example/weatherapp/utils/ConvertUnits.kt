@@ -1,8 +1,8 @@
 package com.example.weatherapp.utils
 
-import com.example.weatherapp.Params.CELSIUS
-import com.example.weatherapp.Params.FAHRENHEIT
-import com.example.weatherapp.Params.KELVIN
+import com.example.weatherapp.utils.Params.CELSIUS
+import com.example.weatherapp.utils.Params.FAHRENHEIT
+import com.example.weatherapp.utils.Params.KELVIN
 
 class ConvertUnits {
     companion object{
